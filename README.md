@@ -3,6 +3,7 @@
 Data Cleaning:
 Identified missing values in Age, Cabin, and Embarked columns.
 Cabin had the highest number of missing values (687).
+
 Key Finding:
 Female passengers had a significantly higher survival count than male passengers.
 Most passengers traveled in Third Class (Pclass 3).
